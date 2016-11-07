@@ -119,7 +119,7 @@ DEFine NET:         Create I/O ports and nets on current design.
 Please refer to the COPYING file for license and copying information.
 
 
-Hu-Hsi Yeh, Cheng-Yin Wu (<chengyin123@gmail.com>), and Chung-Yang (Ric) Huang (<ric@cc.ee.ntu.edu.tw>), 
+Hu-Hsi Yeh, Cheng-Yin Wu (<chengyinwu123@gmail.com>), and Chung-Yang (Ric) Huang (<ric@cc.ee.ntu.edu.tw>), 
 
 National Taiwan University.
 
