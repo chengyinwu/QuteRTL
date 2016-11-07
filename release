@@ -1,0 +1,19 @@
+Copyleft(c) 2011 LaDs(III), GIEE, NTU, Taiwan
+
+RELEASE NOTES of QuteRTL
+
+=== October, 20, 2011 ===
+First Release of QuteRTL binary.
+First Release of QuteRTL source.
+
+Major Release of QuteRTL : 
+ Verilog / BLIF Parser.
+ Verilog Synthesizer / Flatten.
+ Verilog / BLIF Writer.
+ Print and report of design information.
+ Verification applications. *
+
+* Three extra verification commands for binary only : 
+   DUMp FOrmula:       Dump Model Checking Formula to File Output.
+   MODel CHecking:     Perform Model Checking.
+   SET FORmula:        set up a new formula for property checking
