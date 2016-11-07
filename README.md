@@ -3,9 +3,9 @@
                     Copyleft(c) 2011 LaDs(III), GIEE, NTU, Taiwan
 
 ## NOTICE TO QUTERTL USERS
-This is a mirror of the source code in our first release and thus it's just for those who wants to use QuteRTL right now.
-Unfortunately our server has been terribly crashed for a while and it's still under repair.
-Once the server is up we'll update the code here to the latest release immediately.
+This is a mirror of the source code in our first release in 2011 and thus it's just for those who want to use QuteRTL right now.
+Unfortunately our server has been terribly crashed for a long time and it's still under repair.
+Once the server is up we'll update the code here to our latest release.
 
 ## INTRODUCTION
 QuteRTL is a word-level framework developed for years. It generally 
@@ -119,7 +119,7 @@ DEFine NET:         Create I/O ports and nets on current design.
 Please refer to the COPYING file for license and copying information.
 
 
-Hu-Hsi Yeh, Cheng-Yin Wu, and Chung-Yang (Ric) Huang, 
+Hu-Hsi Yeh, Cheng-Yin Wu (<chengyin123@gmail.com>), and Chung-Yang (Ric) Huang (<ric@cc.ee.ntu.edu.tw>), 
 
 National Taiwan University.
 
