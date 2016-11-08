@@ -87,7 +87,7 @@ DEFine NET                # Create I/O ports and nets on current design
 
 Please refer to the [COPYING](COPYING) file for license and copying information.
 
-## AUTHORS
+## AUTHOR LIST
 * [Hu-Hsi Yeh](mailto:f93943122@ntu.edu.tw)
 * [Cheng-Yin Wu](mailto:chengyinwu123@gmail.com)
 * [Chung-Yang (Ric) Huang](mailto:ric@cc.ee.ntu.edu.tw)
