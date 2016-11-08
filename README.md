@@ -32,7 +32,7 @@ $ cd <root-directory-of-QuteRTL>
 $ make clean; make
 ```
 
-### EXECUTION
+### EXECUTE
 
 ```bash
 $ cd <root-directory-of-QuteRTL>
@@ -41,7 +41,7 @@ $ ./qutertl
 
 ## COMMANDS
 
-Type "help" in QuteRTL to get a list of fully supported commands.
+Type "help" in QuteRTL to get a full list of supported commands.
 
 ```bash
 # Common Commands
